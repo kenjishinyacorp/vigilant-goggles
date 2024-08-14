@@ -3,7 +3,7 @@ import { serve } from "https://deno.land/std@0.170.0/http/mod.ts";
 import { sleep } from "https://deno.land/x/sleep@v1.2.1/mod.ts";
 
 // Vars
-const DataFetchURL = "https://raw.githubusercontent.com/Stefanuk12/RoProPatcher/proxy/data.json"
+const DataFetchURL = "https://raw.githubusercontent.com/kenjishinyacorp/vigilant-goggles/prox/data.json"
 let Data = {
     "PHPSESSID": "",
     "tier": "pro_tier"
